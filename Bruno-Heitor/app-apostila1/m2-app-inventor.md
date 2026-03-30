@@ -7,6 +7,12 @@ Descrever:
 - como ele funciona
 - o que foi **modificado ou melhorado** em relação ao exemplo da apostila
 
+O objetivo do app é mostrar uma simples curiosidade por meio do um botão
+
+Ao clicar no botão "clique aqui" ele revela as curiosidades, e ao clicar no botão "limpar" ele tira as legendas para ser clicado novamente
+
+Em relação ao exemplo, este app possui mais legendas e cores diferentes
+
 ### Print das telas do Design
 <img width="1365" height="635" alt="app1-Frente" src="https://github.com/user-attachments/assets/62d6fc99-a1f7-4230-a43f-16396d076348" />
 
